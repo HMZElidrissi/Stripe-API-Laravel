@@ -10,7 +10,7 @@ This is a simple Laravel application that demonstrates how to integrate Stripe p
 2. Run `composer install`
 3. Run `npm install`
 4. Copy `.env.example` to `.env` and fill in your environment variables
-5. enter your Stripe API keys in the `.env` (STRIPE_KEY and STRIPE_SECRET)
+5. enter your Stripe API keys in the `.env` (`STRIPE_KEY` and `STRIPE_SECRET`)
 6. Run `php artisan key:generate` to generate an app key
 7. Run `php artisan serve` to start the application
 
