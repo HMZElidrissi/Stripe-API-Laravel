@@ -25,7 +25,7 @@ The application has the following routes:
 
 1. click on the "checkout" button on the welcome page
 2. Fill out the payment details with the test card information: 
-   - Card Number: 4242 4242 4242 4242
+   - Card Number: `4242 4242 4242 4242`
    - Expiry Date: Any future date
    - CVC: Any 3 digits
    - ZIP: Any 5 digits
